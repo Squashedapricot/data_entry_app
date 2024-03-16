@@ -37,6 +37,6 @@ cd data_entry_app
 ## Contributions are welcome! If you'd like to contribute to this project, please fork this repository and submit a pull request with your changes.
 
 
-### Resource for learning tkinter : [Kevin Stratvert](https://youtu.be/tRZGeaHPoaw?si=QNUxm3xgZ8xEhVWf)
+### Resource for learning git : [Kevin Stratvert](https://youtu.be/tRZGeaHPoaw?si=QNUxm3xgZ8xEhVWf)
 ### Resource for learning tkinter : [ClearCode](https://youtu.be/mop6g-c5HEY?si=CmoxihRh9LCa6Uu5)
 ### Resource for learning sqlite3 : [Freecodecamp](https://www.youtube.com/watch?v=byHcYRpMgI4)
